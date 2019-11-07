@@ -19,9 +19,17 @@ namespace WindowsFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            // TODO: данная строка кода позволяет загрузить данные в таблицу "_D__new_database_Client_sqliteDataSet.products". При необходимости она может быть перемещена или удалена.
+            //this.productsTableAdapter.Fill(this._D__new_database_Client_sqliteDataSet.products);
 
+            //this.reportViewer1.RefreshReport();
+            //this.reportViewer1.RefreshReport();
             this.reportViewer1.RefreshReport();
-            this.reportViewer1.RefreshReport();
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
         }
     }
 }

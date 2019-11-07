@@ -10,7 +10,7 @@
 
 #pragma warning disable 1591
 
-namespace WindowsFormsApp1 {
+namespace Reports {
     
     
     /// <summary>
@@ -18583,7 +18583,7 @@ namespace WindowsFormsApp1 {
         }
     }
 }
-namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
+namespace Reports._D__new_database_Client_sqliteDataSetTableAdapters {
     
     
     /// <summary>
@@ -18772,7 +18772,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -19269,7 +19269,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -19759,7 +19759,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -20352,7 +20352,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -21407,7 +21407,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -21869,7 +21869,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -22322,7 +22322,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -22684,7 +22684,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -23242,7 +23242,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -24338,7 +24338,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -24976,7 +24976,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -25487,7 +25487,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -25914,7 +25914,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -26354,7 +26354,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -26927,7 +26927,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -27523,7 +27523,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -27970,7 +27970,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -28419,7 +28419,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -28876,7 +28876,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -29486,7 +29486,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -29720,7 +29720,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -29976,7 +29976,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -30368,7 +30368,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -30882,7 +30882,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -31646,7 +31646,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -32085,7 +32085,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -32378,7 +32378,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -32889,7 +32889,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -33277,7 +33277,7 @@ namespace WindowsFormsApp1._D__new_database_Client_sqliteDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.Odbc.OdbcConnection();
-            this._connection.ConnectionString = global::WindowsFormsApp1.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
+            this._connection.ConnectionString = global::Reports.Properties.Settings.Default.D__new_database_Client_sqliteConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]

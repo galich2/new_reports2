@@ -109,6 +109,7 @@
             this.reportViewer1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.reportViewer1.Size = new System.Drawing.Size(800, 426);
             this.reportViewer1.TabIndex = 2;
+            this.reportViewer1.Visible = false;
             // 
             // MainForm
             // 

@@ -29,7 +29,6 @@ D:\reports\new_reports2\bin\Release\Microsoft.VisualStudio.TextManager.Interop.x
 D:\reports\new_reports2\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
 D:\reports\new_reports2\obj\Release\reports.csprojAssemblyReference.cache
 D:\reports\new_reports2\obj\Release\Reports.AboutProgram.resources
-D:\reports\new_reports2\obj\Release\WindowsFormsApp1.MainForm.resources
 D:\reports\new_reports2\obj\Release\Reports.Properties.Resources.resources
 D:\reports\new_reports2\obj\Release\Reports.Settings.resources
 D:\reports\new_reports2\obj\Release\reports.csproj.GenerateResource.cache
@@ -38,3 +37,8 @@ D:\reports\new_reports2\obj\Release\RdlCompile.compiled
 D:\reports\new_reports2\obj\Release\reports.csproj.CopyComplete
 D:\reports\new_reports2\obj\Release\Отчеты.exe
 D:\reports\new_reports2\obj\Release\Отчеты.pdb
+D:\reports\new_reports2\bin\Release\Отчеты.exe.manifest
+D:\reports\new_reports2\bin\Release\Отчеты.application
+D:\reports\new_reports2\obj\Release\Reports.MainForm.resources
+D:\reports\new_reports2\obj\Release\Отчеты.exe.manifest
+D:\reports\new_reports2\obj\Release\Отчеты.application
